@@ -24,7 +24,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-**On the FPGA designs the CERN OHL v 1.2**
+**On the FPGA designs is applied the CERN OHL v 1.2**
 
  (C) Copyright 2017 Enrico Sanino
  License:     This project is licensed with the CERN Open Hardware Licence
